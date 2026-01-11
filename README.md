@@ -139,3 +139,7 @@ python manage.py test
 
 This project is open source and available for educational purposes.
 
+the app is used to write tasks with a deadline to manage daily workload efficiently.
+to run the app locally in the browser we should use the terminal commands "python manage.py migrate","python manage.py runserver" after setting necessary python libraries.
+
+the working link:"https://to-do-app-8xxe.onrender.com"
